@@ -1,3 +1,3 @@
 {{--Attendize is provided free of charge on the condition the below hyperlink is left in place.--}}
-{{--See https://www.attendize.com/license.html for more information.--}}
-Powered By <a style="color: #FFF;" title="Attendize - Sell Tickets Online" href="https://www.attendize.com/?powered_by">Attendize</a>
+{{--See https://www.ImajineWeb.com/license.html for more information.--}}
+Powered By <a style="color: #FFF;" title="ImajineWeb - Sell Tickets Online" href="https://www.ImajineWeb.com/?powered_by">ImajineWeb</a>
